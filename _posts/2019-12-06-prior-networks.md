@@ -3,8 +3,7 @@ layout: post
 mathjax: true
 title: "Uncertainty Estimation with Prior Networks"
 date: 2019-11-30 23:59:40 +0100
-categories: jekyll update
-bibliography: uncertainty_references.bib
+categories: Uncertainty Estimation
 ---
 
 ## Introduction
