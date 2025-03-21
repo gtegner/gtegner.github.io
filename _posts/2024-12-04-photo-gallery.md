@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with image galleries
+title: Laplace Approximation
 date: 2024-12-04 01:59:00
-description: this is what included image galleries could look like
+description: Some thoughts on uncertainty estimation
 tags: formatting images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
